@@ -1,0 +1,5 @@
+2026-05-11 20:49:10,616 - INFO - === SISTEMA SOFTWARE FJ INICIADO ===
+2026-05-11 20:49:11,388 - INFO - FJManager initialized - Ready to manage customers and reservations
+2026-05-11 20:49:11,389 - INFO - FJApp GUI initialized
+2026-05-11 20:49:11,432 - INFO - Starting Tkinter mainloop - Application ready
+2026-05-11 20:49:14,836 - INFO - === APPLICATION CLOSED ===
